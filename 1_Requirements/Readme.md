@@ -14,3 +14,10 @@
 
 ### How sensors keep you safe?
 ### The longer the seat cushion stays on, the hotter it gets. If it were to stay on for too long, it would get hot enough to become uncomfortable or even dangerous to sit in. It could even start a fire in the cushion. To prevent this, most car seat heaters have a thermostat. The thermostat measures the temperature in the cushion. When it reaches a certain temperature, the thermostat sends a signal, automatically turning off the relay until the seat cools down a bit.
+
+## FEATURES
+### o Heated seats simply need to warm up the seat itself so instant heating takes place.
+### o The interior of the car is still fairly cold because only seats are heating.
+### o Heated seats can be turned on individually, so drivers and passengers will be able to control their own temperatures.
+
+## DEFINING OUE SYSTEM

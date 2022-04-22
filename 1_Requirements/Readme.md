@@ -20,4 +20,7 @@
 ### o The interior of the car is still fairly cold because only seats are heating.
 ### o Heated seats can be turned on individually, so drivers and passengers will be able to control their own temperatures.
 
-## DEFINING OUE SYSTEM
+## DEFINING OUR SYSTEM
+
+<img width="636" alt="activity_list" src="https://user-images.githubusercontent.com/101494192/164626216-bfce0cda-34c5-4f52-b391-506fbb3263a2.png">
+

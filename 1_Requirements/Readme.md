@@ -7,7 +7,7 @@
 ### It can take a while for a heater to warm up an entire vehicle. Heated seats simply need to warm up the seat itself, so you'll begin to feel warm almost immediately even if the interior of the car is still fairly cold. Heated seats transfer heat directly to you rather than warming up the interior of the car. Because of this, heated seats can actually conserve energy you might not need the heater on at all if you've heated your seats. Heated seats will also dissipate some heat into the air, warming the vehicle as a whole. 
 
 ## RESEARCH
-### Why it is importatnt to have heated seats?
+### Why it is important to have heated seats?
 ### Heated seats are usually more effective in areas with a mild cold rather than an extremely severe cold; otherwise they may have to be used in tandem with the car heater.
 
 

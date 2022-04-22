@@ -1,4 +1,4 @@
-PROJ_NAME = Embedded_C
+PROJ_NAME = M2_Seat_Heating_System
 
 BUILD_DIR = build
 
